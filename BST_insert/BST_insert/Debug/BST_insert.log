@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  BST_insert.cpp
+d:\learning_material\bat算法\bat_code_learn\two_cha_shu\bst_insert\bst_insert\bst_insert.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+  BST_insert.vcxproj -> D:\Learning_Material\BAT算法\BAT_Code_Learn\Two_Cha_Shu\BST_insert\Debug\BST_insert.exe
+  BST_insert.vcxproj -> D:\Learning_Material\BAT算法\BAT_Code_Learn\Two_Cha_Shu\BST_insert\Debug\BST_insert.pdb (Full PDB)
